@@ -23,6 +23,9 @@
     "@angular/router": "^16.2.0",
     "cors": "^2.8.5",
     "express": "^4.18.2",
+    "mongodb": "^6.4.0",
+    "mongosh": "^0.0.1",
+    "mongoshell": "^1.0.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.13.0"
